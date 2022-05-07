@@ -1,7 +1,8 @@
 ### Hello World 🐧
-I am a currently working on my MSc. of Computer Science Thesis at the Hochschule Furtwangen University using Rasa.
+I am a currently working on my MSc. of Computer Science Thesis at the Hochschule Furtwangen University comparing OpenSource NLU Frameworks for intervention apps in eHealth.
 - 🔭 I am also working on some smaller Java projects to improve my coding experience (code-kata are a lot of fun)!
 - ✨ Learning clean code.
+- 
 
 ## Connect with me
 
