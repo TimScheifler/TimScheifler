@@ -1,7 +1,8 @@
 ### Hello World 🐧
 I am a currently working on my MSc. of Computer Science Thesis at the Hochschule Furtwangen University comparing OpenSource NLU Frameworks for intervention apps in eHealth.
+- 🐍 Learning Python and FastAPI
 - 🔭 I am also working on some smaller Java projects to improve my coding experience (code-kata are a lot of fun)!
-- ✨ Learning clean code.
+- ✨ Following clean code principles.
 
 ## Connect with me
 
