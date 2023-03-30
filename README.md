@@ -1,12 +1,13 @@
 ### Hello World 🐧
-I am a currently working on my MSc. of Computer Science Thesis at the Hochschule Furtwangen University comparing OpenSource NLU Frameworks for intervention apps in eHealth.
-- 🔭 I am also working on some smaller Java projects to improve my coding experience (code-kata are a lot of fun)!
+<!--- I am a currently working on my MSc. of Computer Science Thesis at the Hochschule Furtwangen University comparing OpenSource NLU Frameworks for intervention apps in eHealth.-->
+I'm a Java Fullstack developer
+- 🔭 In my free time, I am working on some smaller Java projects to improve my coding experience (code-kata are a lot of fun)!
 - ✨ Following clean code principles.
 
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tim-scheifler-433763224/)
-<!--- [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@tim.scheifler/) --->
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@tim.scheifler/)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/18344465/tim-scheifler)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/TimScheifler)<br>
 
