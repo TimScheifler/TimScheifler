@@ -19,6 +19,3 @@ I'm a passionate Java Fullstack Developer dedicated to backend development. I en
 <img align="left" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 <img align="left" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img align="left" alt="Nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-
-<br><br>
-Your support, connections, and feedback are always appreciated!
