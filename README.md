@@ -1,8 +1,5 @@
 ### Hi there, I'm Tim 🐧
-I'm a passionate Java Fullstack Developer dedicated to backend development. I enjoy writing clean code, exploring hexagonal architecture, and continuously improving my skills.
-
-- 🔭 Projects: During my free time, I often work on Java projects, sharpening my experience.
-- ✨ Principles: Clean code isn't just a guideline—it's a commitment.
+I'm a passionate Java Fullstack Developer dedicated to backend development. I enjoy writing clean code, hexagonal architecture, and continuously improving my skills.
 
 ## 🌐 Connect with Me
 
